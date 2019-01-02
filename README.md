@@ -46,3 +46,8 @@ import './index.css';
 Now if you run npm start in the project folder and open http://localhost:3000 in the browser, you should see an empty tic-tac-toe field.
 
 We recommend following these instructions to configure syntax highlighting for your editor.
+
+
+React Developer Tools for Chrome
+
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
